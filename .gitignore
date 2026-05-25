@@ -1,0 +1,19 @@
+# Pliki IDE
+.idea/
+.vscode/
+
+# Build
+target/
+*.class
+
+# Logi
+logs/
+*.log
+
+# Sekrety
+.env
+*.key
+
+# System
+.DS_Store
+Thumbs.db
