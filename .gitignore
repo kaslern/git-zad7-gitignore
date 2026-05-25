@@ -17,3 +17,5 @@ logs/
 # System
 .DS_Store
 Thumbs.db
+
+*.tmp
